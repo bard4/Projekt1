@@ -1,0 +1,1 @@
+To jest plik1 - wpis dodany w momencie utworzenia pliku.
